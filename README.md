@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi all👋 Chris here.
+
+
+
+(〜￣▽￣)〜📧   **cpbound87@gmail.com**     📧〜(￣▽￣〜) 
+
+(〜￣▽￣)〜🎸   **I make weird music too. Enjoy!**    🎛️〜(￣▽￣〜) 
+
+(〜￣▽￣)〜🕹️    **I play Tekken 7. Lucky Chloe / Asuka Kazama main. Sorry.😰**    🕹️〜(￣▽￣〜)
+
+
+
+
 
 <!--
 **cpbound/cpbound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
