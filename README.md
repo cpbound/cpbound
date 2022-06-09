@@ -1,12 +1,12 @@
 ### Hi all👋 Chris here.
 
+I'm currently attempting to embiggen my cromulent full stack knowledge. 
 
+(〜￣▽￣)〜📧   **cpbound87@gmail.com**
 
-(〜￣▽￣)〜📧   **cpbound87@gmail.com**     📧〜(￣▽￣〜) 
+(〜￣▽￣)〜🎸   **I make weird music too. Enjoy!**
 
-(〜￣▽￣)〜🎸   **I make weird music too. Enjoy!**    🎛️〜(￣▽￣〜) 
-
-(〜￣▽￣)〜🕹️    **I play Tekken 7. Lucky Chloe / Asuka Kazama main. Sorry.😰**    🕹️〜(￣▽￣〜)
+(〜￣▽￣)〜🕹️    **I play Tekken 7. Lucky Chloe / Asuka Kazama main here. Sorry.😰**
 
 
 
