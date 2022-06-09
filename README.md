@@ -1,29 +1,25 @@
 <p align="center">
-<img src="/home/the_binman/code/cpbound/cpbound/assets/ntwicChrisBound.jpg">
+  <img width="500" src="assets/ntwicChrisBound.jpg">
 </p>
-
-# Hullo all! 👋 I'm Chris. 👋
-
-## I'm a Tokyo based developer currently attempting to embiggen my cromulent full stack knowledge.
-
-### Things I know something about 👇🏻
-
-
-### Things I want to know more about 👇🏻
-
-![The middle of the README](/assets/torturedAmbivalence.jpg)
-
-(〜￣▽￣)〜📧   **cpbound87@gmail.com**
-
-(〜￣▽￣)〜📧
-
-(〜￣▽￣)〜🎸   **I make weird music too. Enjoy!**
-
-(〜￣▽￣)〜🕹️    **I play Tekken 7. Lucky Chloe / Asuka Kazama main here. Sorry.😰**
-
-![This is how I code](/assets/sweaty_ryo.gif)
+<br>
+<h1 align="center"><b>Hullo all! 👋 I'm Chris.👋</b></h1>
+<h2 align="center"><em>I'm a Tokyo based developer currently attempting to embiggen my cromulent full stack knowledge.</em></h2>
+<br>
+<br>
+<h1 align="center"><b>👇🏻Some stuffs about me👇🏻</b></h1>
 
 
+  (〜￣▽￣)〜📧   cpbound87@gmail.com
+
+  (〜￣▽￣)〜📧   <a href="https://www.linkedin.com/in/christian-bound">A wild LinkedIn appears!</a>
+
+  (〜￣▽￣)〜🎸   <a href="https://adulttime.bandcamp.com/releases">I make weird music too. Enjoy!</a>
+
+  (〜￣▽￣)〜🕹️   I play Tekken 7. Lucky Chloe / Asuka Kazama main here.😰
+
+<p align="center">
+  <img width="500" src="assets/sweaty_ryo.gif">
+</p>
 
 <!--
 **cpbound/cpbound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,4 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</p>
