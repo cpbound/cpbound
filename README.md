@@ -1,14 +1,27 @@
-# Hi all👋 Chris here.
+<p align="center">
+<img src="/home/the_binman/code/cpbound/cpbound/assets/ntwicChrisBound.jpg">
+</p>
 
-I'm currently attempting to embiggen my cromulent full stack knowledge.
+# Hullo all! 👋 I'm Chris. 👋
+
+## I'm a Tokyo based developer currently attempting to embiggen my cromulent full stack knowledge.
+
+### Things I know something about 👇🏻
+
+
+### Things I want to know more about 👇🏻
+
+![The middle of the README](/assets/torturedAmbivalence.jpg)
 
 (〜￣▽￣)〜📧   **cpbound87@gmail.com**
+
+(〜￣▽￣)〜📧
 
 (〜￣▽￣)〜🎸   **I make weird music too. Enjoy!**
 
 (〜￣▽￣)〜🕹️    **I play Tekken 7. Lucky Chloe / Asuka Kazama main here. Sorry.😰**
 
-![This is how I code](/assets/sweaty_ryo.png)
+![This is how I code](/assets/sweaty_ryo.gif)
 
 
 
@@ -26,3 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</p>
