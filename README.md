@@ -18,7 +18,7 @@
 
   (〜￣▽￣)〜🎸   <a href="https://adulttime.bandcamp.com/releases">I make weird music too. Enjoy!</a>
 
-  (〜￣▽￣)〜🕹️   I play Tekken 7. Lucky Chloe / Asuka Kazama main here.😰
+  (〜￣▽￣)〜🕹️   <a href="https://glossary.infil.net/?t=Hop%20Kick">I play Tekken 7. Lucky Chloe / Asuka Kazama main here.😰
 
 <p align="center">
   <img width="500" src="assets/sweaty_ryo.gif">
