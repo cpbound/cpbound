@@ -20,9 +20,8 @@
 
   (〜￣▽￣)〜🕹️   <a href="https://glossary.infil.net/?t=Hop%20Kick">I play Tekken 7. Lucky Chloe / Asuka Kazama main here.😰
 
-<p align="center">
-  <img width="500" src="assets/sweaty_ryo.gif">
-</p>
+
+ <img width="500" src="assets/sweaty_ryo.gif">
 
 <!--
 **cpbound/cpbound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
