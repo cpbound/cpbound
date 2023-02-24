@@ -12,6 +12,8 @@
 <p align="center"> <img width="500" src="assets/sweaty_ryo.gif"> </p>
 
   (〜￣▽￣)〜📧   cpbound87@gmail.com
+  
+  (〜￣▽￣)〜🌐   <a href="https://crsbnd.netlify.app">It's my portfolio I guess.</a>
 
   (〜￣▽￣)〜🧑🏻   <a href="https://www.linkedin.com/in/christian-bound">A wild LinkedIn appears!</a>
 
