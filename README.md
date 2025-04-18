@@ -19,7 +19,7 @@
 
   (〜￣▽￣)〜🎸   <a href="https://adulttime.bandcamp.com/releases">I make weird music too. Enjoy!</a>
 
-  (〜￣▽￣)〜🕹️   <a href="https://glossary.infil.net/?t=Hop%20Kick">I play Tekken 7. Lucky Chloe / Asuka Kazama main here.😰
+  (〜￣▽￣)〜🕹️   <a href="https://glossary.infil.net/?t=Hop%20Kick">I play Tekken 7. Lucky Chloe / Asuka Kazama main here. Still an Asuka main in Tekken 8, get back to me when the season 2 patch is fixed tho...😰
   
 
 
